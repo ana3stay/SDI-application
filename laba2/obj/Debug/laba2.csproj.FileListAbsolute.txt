@@ -1,0 +1,21 @@
+G:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+G:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.exe.config
+G:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.exe
+G:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.pdb
+G:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.exe
+G:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.pdb
+G:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+E:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.exe.config
+E:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.exe
+E:\4 курс\net\c#\laba2\laba2\bin\Debug\laba2.pdb
+E:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+E:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+E:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.exe
+E:\4 курс\net\c#\laba2\laba2\obj\Debug\laba2.pdb
+C:\Users\Анастасия\Desktop\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\Анастасия\Desktop\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\Анастасия\Desktop\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\Анастасия\Desktop\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\Анастасия\Desktop\laba2\laba2\obj\Debug\laba2.pdb
